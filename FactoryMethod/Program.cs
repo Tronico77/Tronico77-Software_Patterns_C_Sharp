@@ -1,4 +1,5 @@
-﻿using System;
+//Author: José Aurelio Quezada Alvarez
+using System;
 using System.Collections.Generic;
 using System.Text;
 
