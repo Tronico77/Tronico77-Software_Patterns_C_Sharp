@@ -1,3 +1,4 @@
+//Author: José Aurelio Quezada Alvarez
 public class Singleton
 { 
 	private static Singleton instance = null;
